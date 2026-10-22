@@ -1,0 +1,6 @@
+# SPDX-License-Identifier: Apache-2.0
+# SPDX-FileCopyrightText: 2026 The Linux Foundation
+
+# The Otterdog CLI vendors the defaults template next to the org file.
+# The webapp fetches it itself, so it never belongs in the repo.
+otterdog/vendor/
